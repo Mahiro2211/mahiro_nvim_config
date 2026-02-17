@@ -63,6 +63,7 @@ return {
 			})
 			require("transparent").clear_prefix("snacks")
 			require("transparent").clear_prefix("lualine")
+			require("transparent").clear_prefix("lazy")
 		end,
 	},
 }
