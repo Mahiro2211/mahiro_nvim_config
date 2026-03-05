@@ -1,5 +1,12 @@
 return {
 	{
+		{
+			"LazyVim/LazyVim",
+			opts = {
+				colorscheme = "rose-pine",
+			},
+		},
+
 		"ellisonleao/gruvbox.nvim",
 		config = function()
 			-- Default options:
@@ -31,6 +38,9 @@ return {
 	{ "nyoom-engineering/oxocarbon.nvim" },
 	{ "EdenEast/nightfox.nvim" },
 	{
+		"rose-pine/neovim",
+	},
+	{
 		"folke/tokyonight.nvim",
 		config = function()
 			require("tokyonight").setup({
@@ -45,13 +55,6 @@ return {
 	},
 	{ "rebelot/kanagawa.nvim" },
 	{ "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
-
-	{
-		"LazyVim/LazyVim",
-		opts = {
-			colorscheme = "oxocarbon",
-		},
-	},
 
 	{
 		"nvim-lualine/lualine.nvim",

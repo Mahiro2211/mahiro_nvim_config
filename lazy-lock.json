@@ -28,6 +28,7 @@
   "mini.pick": { "branch": "main", "commit": "8521fe21df86e08d9e4b3c3f3a7d50e47954e1af" },
   "moonfly": { "branch": "master", "commit": "d11b3d04cc1cb71a778d67a4df73283a5a6d66f4" },
   "neogit": { "branch": "master", "commit": "0ea6b87ae19e8e5a235c682f8db1305774824f9b" },
+  "neovim": { "branch": "main", "commit": "cf2a288696b03d0934da713d66c6d71557b5c997" },
   "nightfox.nvim": { "branch": "main", "commit": "ba47d4b4c5ec308718641ba7402c143836f35aa9" },
   "noice.nvim": { "branch": "main", "commit": "7bfd942445fb63089b59f97ca487d605e715f155" },
   "nui.nvim": { "branch": "main", "commit": "de740991c12411b663994b2860f1a4fd0937c130" },
@@ -55,5 +56,6 @@
   "trouble.nvim": { "branch": "main", "commit": "bd67efe408d4816e25e8491cc5ad4088e708a69a" },
   "ts-comments.nvim": { "branch": "main", "commit": "123a9fb12e7229342f807ec9e6de478b1102b041" },
   "vim-oscyank": { "branch": "main", "commit": "d67d76b2f19b868b70a1cf33a779d71dc092cb30" },
+  "vim-visual-multi": { "branch": "master", "commit": "a6975e7c1ee157615bbc80fc25e4392f71c344d4" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" }
 }
