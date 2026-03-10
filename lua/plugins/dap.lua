@@ -22,7 +22,7 @@ return {
 					name = "Launch file",
 					program = "${file}",
 					pythonPath = function()
-						return "/home/dhm//anaconda3/envs/wslpython310/bin/python"
+						return "/home/dhm/anaconda3/envs/wslpython310/bin/python"
 					end,
 				},
 			}
